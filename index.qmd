@@ -17,4 +17,5 @@ Welcome to the "What Grad School Don’t Teach You: Tools for Transparent and Re
 Almost None to get a 'whirlwind tour'. But certainly lot to learn!!
 
 # Materials
-(Check out this GitHub repo)[]
+
+[Check out this GitHub repo](https://github.com/nithinmkp/ysi-economiga)

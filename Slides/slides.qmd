@@ -15,7 +15,7 @@ format:
     multiplex: false
     preview-links: true
     controls: true
-    footer: "https://nithinmkp.github.io/kea-talk/"
+    footer: " https://nithinmkp.github.io/ysi-economiga/"
 brand: false
 ---
 
