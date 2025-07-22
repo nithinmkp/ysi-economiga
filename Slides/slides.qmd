@@ -1,0 +1,213 @@
+---
+title: "What Grad Schools Don’t Teach You"
+subtitle: Tools for Transparant and Reproducible Research
+author: 
+  - name: Nithin M
+    institute: Kerala agricultural University   
+  - name : Naveen Hari
+image: titlke.jpeg
+format:
+  metropolis-revealjs:
+    theme: [styles.scss]
+    slide-number: true
+    chalkboard: true
+    highlight-style: dracula
+    multiplex: false
+    preview-links: true
+    controls: true
+    footer: "https://nithinmkp.github.io/kea-talk/"
+brand: false
+---
+
+## {.standout}
+Welcome
+---
+
+> *“Writing good code is part of doing good research.”*  
+> — Konrad Hinsen
+
+---
+
+{{< include about_me.qmd >}}
+
+{{< include about_u.qmd >}}
+
+## Disclaimer 
+- Research is not equivalent to expertise in tools  
+- However, knowing these tools can save time  
+
+---
+
+## Collaborative Research/Thesis/Dissertation
+
+
+Imagine:  
+
+
+- You’ve written a research draft and want feedback, so you email **draft.docx**.
+- I add comments, make changes, and email you back **draft_Nithin_comments.docx**.
+- You incorporate suggestions, add more sections, and send me **draft_v2.docx**.
+- After a few more rounds, we end up with **draft_v5_final_FINAL.docx**.
+
+---
+
+## 
+![Messy Folder Example](version.jpg)
+
+::: {.incremental}
+- "How many of you have experienced this?"  
+:::
+---
+
+##
+![Multi-Format Problem](colab.jpg)
+
+::: {.incremental}
+- Different versions of the same file in multiple formats  
+- Hard to track changes and collaborate efficiently  
+- Example: 'paper.docx', 'paper.pdf', 'paper.tex', 'paper_final.docx'  
+:::
+---
+
+## 
+![Collaboration Challenge](colab2.jpg)
+
+
+---
+
+## What if there was a better way
+  - Automate documentation & results  
+  - Use version control for tracking changes  
+  - Ensure full reproducibility with open tools 
+
+[Outcome  - Reproducible Research]{.huge-font .huge-font-r}
+---
+
+## Why Reproducibility Matters ? {.scrollable}
+- Replication crisis: Cases where results didn’t hold  
+- **Top journals now require code submission**  
+  - *American Economic Review (AER)* 
+  - *The Economic Journal*  
+  - *Econometrica* 
+- **Even Research Associate positions now require fully reproducible code, including directory structure, even in Stata.**  
+- Reproducibility = Transparency + Accountability
+
+## Aspects of a Reproducible Research Project
+
+- 🗂 Well-structured project folder  
+- 🧾 Documented workflow  
+- 🔁 Version control  
+- 💻 Executable code  
+- 📦 Environment capture  
+- 📜 Literate programming  
+- 🧪 Verifiable results
+
+## Well-Structured Project Folder 🗂
+
+- Think of it as your project's "home" — neat, predictable, and intuitive  
+- Clear separation of:
+  - `data/`: raw and processed datasets  
+  - `scripts/`: cleaning, analysis, visualization  
+  - `output/`: tables, plots, reports  
+  - `docs/`: draft reports, manuscripts  
+- Helps others (and future-you) navigate with ease
+
+## Documented Workflow 🧾
+
+- Explain **what was done**, **why**, and **how**
+- Use:
+  - `README.md` for project overview  
+  - Code comments & inline notes  
+  - External documentation tools like Quarto or R Markdown
+- Think of it as a research diary: future collaborators or reviewers should not guess
+
+## Version Control 🔁
+
+- Use **Git** to track edits over time:
+  - Who changed what, when, and why
+- Enables:
+  - Rolling back mistakes  
+  - Collaborating without overwriting  
+  - Tracking evolution of ideas
+- Tools: Git + GitHub/GitLab/Bitbucket
+
+> Bonus: GitHub also gives you cloud backup & sharing
+
+## Executable Code 💻
+
+- Good research should not rely on **manual steps**, **clicks**, or **copy-pasting results into Word**
+- Proprietary tools like **SPSS**, and **Excel** often encourage point-and-click workflows
+  - Difficult to track what was done  
+  - Not easily repeatable or auditable  
+  - Risk of human error
+
+---
+
+### Solution: Scripted, Reproducible Workflows
+
+- Write reusable scripts in **R** or **Python**
+- Generate outputs programmatically:
+  - Tables  
+  - Figures  
+  - Summary statistics
+- Use tools like **Quarto** or **Jupyter Notebooks** to combine code and documentation
+
+## Environment Capture 📦
+
+- A key limitation of **proprietary software**:
+  - No control over versions or environments  
+  - Can break silently after updates (e.g., Stata 15 → 18)  
+  - License restrictions limit collaboration & sharing
+
+---
+
+### Why Capture Environments?
+
+- Ensures **your analysis runs the same way tomorrow** as it does today  
+- Makes your project portable across machines and collaborators  
+- Journals now ask for full reproducibility (including code + setup)
+
+> This is your project’s **time machine** — essential for long-term reproducibility
+
+## Literate Programming 📜
+
+- Combine **code + results + narrative** in one file
+- Tools:
+  - `Quarto`, `R Markdown`, `Jupyter`
+- Advantages:
+  - No copy-paste errors  
+  - Easy to update plots, stats, tables  
+  - Great for reports, theses, papers
+
+> Write papers the way you write code: integrated, versioned, transparent
+
+## Verifiable Results 🧪
+
+- Can someone rerun your project and **get the same output**?
+- What’s needed:
+  - Raw data (or access instructions)  
+  - Code/scripts  
+  - Clear instructions or README  
+- Use reproducibility checklists (e.g., AER, JDE)  
+- Consider sharing via GitHub, OSF, Zenodo
+
+> This is the ultimate test of credible research
+
+
+
+## Challenges 
+- Learning curve for Git & Quarto  
+- Institutional/personal resistance  
+
+---
+
+## Way Forward 
+- Start small: Track one project in Git  
+- Try writing a Quarto report  
+- Shift from proprietary to open-source tools  
+- Encourage colleagues to embrace reproducibility  
+
+## {.rfit-text }
+
+{{< fa question size=10x >}}
+[Questions]{.huge-font}

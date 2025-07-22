@@ -1,0 +1,10 @@
+## About You {.scrollable}
+::: {.incremental}
+- Research Scholars  
+- Academicians  
+- **Your current workflow:**  
+  - manually save multiple versions of the same file 
+  - rely on copy-pasting results  
+  - struggle with collaboration across different tools  
+  - analysis in STATA , write in Word, communicate via email
+:::

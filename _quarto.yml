@@ -1,0 +1,23 @@
+project:
+  type: website
+
+website:
+  title: "What Grad Schools Don’t Teach You: Tools for Transparent and Reproducible Research"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Slides/index.qmd
+        text: Slides
+      - demo.qmd
+
+format:
+  html:
+    theme:
+      - yeti
+      - tweaks.scss
+    toc: true
+brand: brand.yml
+
+
+

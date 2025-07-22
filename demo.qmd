@@ -1,0 +1,7 @@
+---
+title: Example
+---
+
+[Please fill this google form to see example of an automation]{.huge-font-r}
+
+[Link to google form](https://docs.google.com/forms/d/e/1FAIpQLScRC83Z2en1b0W15BlX74gT4f6Qv-z0_3ktfZEvUO9rKSnecQ/viewform)
