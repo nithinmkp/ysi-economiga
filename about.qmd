@@ -1,6 +1,0 @@
----
-title: "About"
-about: marquee
----
-
-About this site

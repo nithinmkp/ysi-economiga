@@ -1,0 +1,478 @@
+[
+  {
+    "objectID": "Slides/slides.html#section",
+    "href": "Slides/slides.html#section",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Welcome"
+  },
+  {
+    "objectID": "Slides/slides.html#about-me",
+    "href": "Slides/slides.html#about-me",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "About Me",
+    "text": "About Me\n\n\n\n\nNithin M\nAssistant Professor, Kerala Agricultural Univeristy &Doctoral Student, Economics 🎓 Indian Institute of Technology Kharagpur\n @nithin_eco\n @nithinmkp\n write2nithinm@gmail.com\n Website"
+  },
+  {
+    "objectID": "Slides/slides.html#about-you",
+    "href": "Slides/slides.html#about-you",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "About You",
+    "text": "About You\n\n\nResearch Scholars\n\nAcademicians\n\nYour current workflow:\n\nmanually save multiple versions of the same file\nrely on copy-pasting results\n\nstruggle with collaboration across different tools\n\nanalysis in STATA/SPSS , write in Word, communicate via email"
+  },
+  {
+    "objectID": "Slides/slides.html#disclaimer",
+    "href": "Slides/slides.html#disclaimer",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Disclaimer",
+    "text": "Disclaimer\n\nResearch is not equivalent to expertise in tools\n\nHowever, knowing these tools can save time"
+  },
+  {
+    "objectID": "Slides/slides.html#collaborative-researchthesisdissertation",
+    "href": "Slides/slides.html#collaborative-researchthesisdissertation",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Collaborative Research/Thesis/Dissertation",
+    "text": "Collaborative Research/Thesis/Dissertation\nImagine:\n\nYou’ve written a research draft and want feedback, so you email draft.docx.\nI add comments, make changes, and email you back draft_Nithin_comments.docx.\nYou incorporate suggestions, add more sections, and send me draft_v2.docx.\nAfter a few more rounds, we end up with draft_v5_final_FINAL.docx."
+  },
+  {
+    "objectID": "Slides/slides.html#section-1",
+    "href": "Slides/slides.html#section-1",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Messy Folder Example\n\n“How many of you have experienced this?”"
+  },
+  {
+    "objectID": "Slides/slides.html#section-2",
+    "href": "Slides/slides.html#section-2",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Multi-Format Problem\n\nDifferent versions of the same file in multiple formats\n\nHard to track changes and collaborate efficiently\n\nExample: ‘paper.docx’, ‘paper.pdf’, ‘paper.tex’, ‘paper_final.docx’"
+  },
+  {
+    "objectID": "Slides/slides.html#section-3",
+    "href": "Slides/slides.html#section-3",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Collaboration Challenge"
+  },
+  {
+    "objectID": "Slides/slides.html#what-if-there-was-a-better-way",
+    "href": "Slides/slides.html#what-if-there-was-a-better-way",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "What if there was a better way",
+    "text": "What if there was a better way\n\nAutomate documentation & results\n\nUse version control for tracking changes\n\nEnsure full reproducibility with open tools\n\nOutcome - Reproducible Research"
+  },
+  {
+    "objectID": "Slides/slides.html#why-reproducibility-matters",
+    "href": "Slides/slides.html#why-reproducibility-matters",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Why Reproducibility Matters ?",
+    "text": "Why Reproducibility Matters ?\n\nReplication crisis: Cases where results didn’t hold\n\nTop journals now require code submission\n\nAmerican Economic Review (AER)\nThe Economic Journal\n\nEconometrica\n\nEven Research Associate positions now require fully reproducible code, including directory structure, even in Stata.\n\nReproducibility = Transparency + Accountability"
+  },
+  {
+    "objectID": "Slides/slides.html#the-economists-toolbox-for-reproducibility",
+    "href": "Slides/slides.html#the-economists-toolbox-for-reproducibility",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "The Economist’s Toolbox for Reproducibility",
+    "text": "The Economist’s Toolbox for Reproducibility\n\nOpen-source programming tools instead of proprietary software\n\nQuarto for technical writing and reproducible reports\n\nGit & GitHub for version control"
+  },
+  {
+    "objectID": "Slides/slides.html#the-problem-with-proprietary-software",
+    "href": "Slides/slides.html#the-problem-with-proprietary-software",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "The Problem with Proprietary Software",
+    "text": "The Problem with Proprietary Software\n\nExpensive licensing costs (SPSS, Stata, MATLAB)\n\nLimited transparency and reproducibility\n\nDependency on vendor updates\n\nRestrictions on sharing and collaboration"
+  },
+  {
+    "objectID": "Slides/slides.html#open-source-alternatives",
+    "href": "Slides/slides.html#open-source-alternatives",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Open-Source Alternatives",
+    "text": "Open-Source Alternatives\n\nR & Python: Powerful, free, and widely used in research\n\nJupyter Notebooks & Quarto: Interactive and reproducible analysis\n\nRStudio & VS Code: User-friendly IDEs for research"
+  },
+  {
+    "objectID": "Slides/slides.html#reproducible-technical-writing-with-quarto",
+    "href": "Slides/slides.html#reproducible-technical-writing-with-quarto",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Reproducible Technical Writing with Quarto",
+    "text": "Reproducible Technical Writing with Quarto\n\nIntegrates code, text, and results\n\nAvoids copy-pasting mistakes\n\nGenerates reports in multiple formats (HTML, PDF, Word)"
+  },
+  {
+    "objectID": "Slides/slides.html#version-control-git-github-in-action",
+    "href": "Slides/slides.html#version-control-git-github-in-action",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Version Control: Git & GitHub in Action",
+    "text": "Version Control: Git & GitHub in Action\n\nTrack changes efficiently\n\nCollaborate without chaos\n\nRevert to previous versions easily"
+  },
+  {
+    "objectID": "Slides/slides.html#a-reproducible-research-workflow",
+    "href": "Slides/slides.html#a-reproducible-research-workflow",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "A Reproducible Research Workflow",
+    "text": "A Reproducible Research Workflow\n\nStep 1: Organizing your project with Git\n\nStep 2: Analysis\nStep 3: Writing with Quarto\n\nStep 4: Publishing with Quarto"
+  },
+  {
+    "objectID": "Slides/slides.html#challenges",
+    "href": "Slides/slides.html#challenges",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Challenges",
+    "text": "Challenges\n\nLearning curve for Git & Quarto\n\nInstitutional/personal resistance"
+  },
+  {
+    "objectID": "Slides/slides.html#way-forward",
+    "href": "Slides/slides.html#way-forward",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Way Forward",
+    "text": "Way Forward\n\nStart small: Track one project in Git\n\nTry writing a Quarto report\n\nShift from proprietary to open-source tools\n\nEncourage colleagues to embrace reproducibility"
+  },
+  {
+    "objectID": "Slides/slides.html#section-5",
+    "href": "Slides/slides.html#section-5",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Questions"
+  },
+  {
+    "objectID": "Slides/about_u.html",
+    "href": "Slides/about_u.html",
+    "title": "What Grad Schools Don’t Teach You: Tools for Transparent and Reproducible Research",
+    "section": "",
+    "text": "Research Scholars\n\nAcademicians\n\nYour current workflow:\n\nmanually save multiple versions of the same file\nrely on copy-pasting results\n\nstruggle with collaboration across different tools\n\nanalysis in STATA/SPSS , write in Word, communicate via email"
+  },
+  {
+    "objectID": "Slides/about_u.html#about-you",
+    "href": "Slides/about_u.html#about-you",
+    "title": "What Grad Schools Don’t Teach You: Tools for Transparent and Reproducible Research",
+    "section": "",
+    "text": "Research Scholars\n\nAcademicians\n\nYour current workflow:\n\nmanually save multiple versions of the same file\nrely on copy-pasting results\n\nstruggle with collaboration across different tools\n\nanalysis in STATA/SPSS , write in Word, communicate via email"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Welcome to the “What Grad School Don’t Teach You: Tools for Transparent and Reproducible Research”. The course website can be found at where you will also find a copy of the slides.\n\nContents\n\nUnderstand the chaos in research\nimportance of reproducible research and technical writing\ntools for version control and technical writing\n\n\n\nTarget Audience\n\nResearch scholars\nAcedemic Instructors\n\n\n\nPrerequisites\nAlmost None to get a ‘whirlwind tour’. But certainly lot to learn!!\n\n\nMaterials\nCheck out this GitHub repo"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "Slides/about_me.html",
+    "href": "Slides/about_me.html",
+    "title": "What Grad Schools Don’t Teach You: Tools for Transparent and Reproducible Research",
+    "section": "",
+    "text": "Nithin M\nAssistant Professor, Kerala Agricultural Univeristy &Doctoral Student, Economics 🎓 Indian Institute of Technology Kharagpur\n @nithin_eco\n @nithinmkp\n write2nithinm@gmail.com\n Website"
+  },
+  {
+    "objectID": "Slides/about_me.html#about-me",
+    "href": "Slides/about_me.html#about-me",
+    "title": "What Grad Schools Don’t Teach You: Tools for Transparent and Reproducible Research",
+    "section": "",
+    "text": "Nithin M\nAssistant Professor, Kerala Agricultural Univeristy &Doctoral Student, Economics 🎓 Indian Institute of Technology Kharagpur\n @nithin_eco\n @nithinmkp\n write2nithinm@gmail.com\n Website"
+  },
+  {
+    "objectID": "Slides/index.html",
+    "href": "Slides/index.html",
+    "title": "Slides",
+    "section": "",
+    "text": "You can view the slides below or open them in a new tab."
+  },
+  {
+    "objectID": "demo.html",
+    "href": "demo.html",
+    "title": "Example",
+    "section": "",
+    "text": "Please fill this google form to see example of an automation\nLink to google form"
+  },
+  {
+    "objectID": "Slides/slides.html",
+    "href": "Slides/slides.html",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Welcome\n\n\n“Writing good code is part of doing good research.”\n— Konrad Hinsen"
+  },
+  {
+    "objectID": "Slides/slides.html#case-study-a-reproducible-research-workflow",
+    "href": "Slides/slides.html#case-study-a-reproducible-research-workflow",
+    "title": "What Grad School Don’t Teach You",
+    "section": "Case Study: A Reproducible Research Workflow",
+    "text": "Case Study: A Reproducible Research Workflow\n\nStep 1: Organizing your project with Git\n\nStep 2: Writing with Quarto\n\nStep 3: Ensuring full reproducibility"
+  },
+  {
+    "objectID": "Slides/slides.html#challenges-how-to-overcome-them",
+    "href": "Slides/slides.html#challenges-how-to-overcome-them",
+    "title": "What Grad School Don’t Teach You",
+    "section": "Challenges & How to Overcome Them",
+    "text": "Challenges & How to Overcome Them\n\nLearning curve for Git & Quarto\n\nInstitutional resistance\n\nBest practices to ease adoption"
+  },
+  {
+    "objectID": "Slides/slides.html#call-to-action-qa",
+    "href": "Slides/slides.html#call-to-action-qa",
+    "title": "What Grad School Don’t Teach You",
+    "section": "Call to Action & Q&A",
+    "text": "Call to Action & Q&A\n\nStart small: Track one project in Git\n\nTry writing a Quarto report\n\nShift from proprietary to open-source tools\n\nEncourage colleagues to embrace reproducibility"
+  },
+  {
+    "objectID": "Slides/slides.html#section-4",
+    "href": "Slides/slides.html#section-4",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "",
+    "text": "Questions"
+  },
+  {
+    "objectID": "Slides/slides.html#aspects-of-a-reproducible-research-project",
+    "href": "Slides/slides.html#aspects-of-a-reproducible-research-project",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Aspects of a Reproducible Research Project",
+    "text": "Aspects of a Reproducible Research Project\n\n🗂 Well-structured project folder\n\n🧾 Documented workflow\n\n🔁 Version control\n\n💻 Executable code\n\n📦 Environment capture\n\n📜 Literate programming\n\n🧪 Verifiable results"
+  },
+  {
+    "objectID": "Slides/slides.html#well-structured-project-folder",
+    "href": "Slides/slides.html#well-structured-project-folder",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Well-Structured Project Folder 🗂",
+    "text": "Well-Structured Project Folder 🗂\n\nThink of it as your project’s “home” — neat, predictable, and intuitive\n\nClear separation of:\n\ndata/: raw and processed datasets\n\nscripts/: cleaning, analysis, visualization\n\noutput/: tables, plots, reports\n\ndocs/: draft reports, manuscripts\n\n\nHelps others (and future-you) navigate with ease"
+  },
+  {
+    "objectID": "Slides/slides.html#documented-workflow",
+    "href": "Slides/slides.html#documented-workflow",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Documented Workflow 🧾",
+    "text": "Documented Workflow 🧾\n\nExplain what was done, why, and how\nUse:\n\nREADME.md for project overview\n\nCode comments & inline notes\n\nExternal documentation tools like Quarto or R Markdown\n\nThink of it as a research diary: future collaborators or reviewers should not guess"
+  },
+  {
+    "objectID": "Slides/slides.html#version-control",
+    "href": "Slides/slides.html#version-control",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Version Control 🔁",
+    "text": "Version Control 🔁\n\nUse Git to track edits over time:\n\nWho changed what, when, and why\n\nEnables:\n\nRolling back mistakes\n\nCollaborating without overwriting\n\nTracking evolution of ideas\n\nTools: Git + GitHub/GitLab/Bitbucket\n\n\nBonus: GitHub also gives you cloud backup & sharing"
+  },
+  {
+    "objectID": "Slides/slides.html#executable-code",
+    "href": "Slides/slides.html#executable-code",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Executable Code 💻",
+    "text": "Executable Code 💻\n\nGood research should not rely on manual steps, clicks, or copy-pasting results into Word\nProprietary tools like SPSS, and Excel often encourage point-and-click workflows\n\nDifficult to track what was done\n\nNot easily repeatable or auditable\n\nRisk of human error"
+  },
+  {
+    "objectID": "Slides/slides.html#environment-capture",
+    "href": "Slides/slides.html#environment-capture",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Environment Capture 📦",
+    "text": "Environment Capture 📦\n\nA key limitation of proprietary software:\n\nNo control over versions or environments\n\nCan break silently after updates (e.g., Stata 15 → 18)\n\nLicense restrictions limit collaboration & sharing"
+  },
+  {
+    "objectID": "Slides/slides.html#literate-programming",
+    "href": "Slides/slides.html#literate-programming",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Literate Programming 📜",
+    "text": "Literate Programming 📜\n\nCombine code + results + narrative in one file\nTools:\n\nQuarto, R Markdown, Jupyter\n\nAdvantages:\n\nNo copy-paste errors\n\nEasy to update plots, stats, tables\n\nGreat for reports, theses, papers\n\n\n\nWrite papers the way you write code: integrated, versioned, transparent"
+  },
+  {
+    "objectID": "Slides/slides.html#verifiable-results",
+    "href": "Slides/slides.html#verifiable-results",
+    "title": "What Grad Schools Don’t Teach You",
+    "section": "Verifiable Results 🧪",
+    "text": "Verifiable Results 🧪\n\nCan someone rerun your project and get the same output?\nWhat’s needed:\n\nRaw data (or access instructions)\n\nCode/scripts\n\nClear instructions or README\n\n\nUse reproducibility checklists (e.g., AER, JDE)\n\nConsider sharing via GitHub, OSF, Zenodo\n\n\nThis is the ultimate test of credible research"
+  },
+  {
+    "objectID": "ysi-economiga.html",
+    "href": "ysi-economiga.html",
+    "title": "Metropolis-Revealjs",
+    "section": "",
+    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
+  },
+  {
+    "objectID": "ysi-economiga.html#hello-there",
+    "href": "ysi-economiga.html#hello-there",
+    "title": "Metropolis-Revealjs",
+    "section": "",
+    "text": "This presentation will show you examples of what you can do with Quarto and Reveal.js, including:\n\nPresenting code and LaTeX equations\nIncluding computations in slide output\nImage, video, and iframe backgrounds\nFancy transitions and animations\nPrinting to PDF\n\n…and much more"
+  },
+  {
+    "objectID": "ysi-economiga.html#pretty-code",
+    "href": "ysi-economiga.html#pretty-code",
+    "title": "Metropolis-Revealjs",
+    "section": "Pretty Code",
+    "text": "Pretty Code\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n  \n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n  })\n}\n\nLearn more: Syntax Highlighting"
+  },
+  {
+    "objectID": "ysi-economiga.html#code-animations",
+    "href": "ysi-economiga.html#code-animations",
+    "title": "Metropolis-Revealjs",
+    "section": "Code Animations",
+    "text": "Code Animations\n\nOver 20 syntax highlighting themes available\nDefault theme optimized for accessibility\n\n# Define a server for the Shiny app\nfunction(input, output) {\n  \n  # Fill in the spot we created for a plot\n  output$phonePlot &lt;- renderPlot({\n    # Render a barplot\n    barplot(WorldPhones[,input$region]*1000, \n            main=input$region,\n            ylab=\"Number of Telephones\",\n            xlab=\"Year\")\n  })\n}\n\nLearn more: Code Animations"
+  },
+  {
+    "objectID": "ysi-economiga.html#line-highlighting",
+    "href": "ysi-economiga.html#line-highlighting",
+    "title": "Metropolis-Revealjs",
+    "section": "Line Highlighting",
+    "text": "Line Highlighting\n\nHighlight specific lines for emphasis\nIncrementally highlight additional lines\n\nimport numpy as np\nimport matplotlib.pyplot as plt\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={'projection': 'polar'})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()\n\nLearn more: Line Highlighting"
+  },
+  {
+    "objectID": "ysi-economiga.html#executable-code",
+    "href": "ysi-economiga.html#executable-code",
+    "title": "Metropolis-Revealjs",
+    "section": "Executable Code",
+    "text": "Executable Code\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +\n  geom_smooth(formula = y ~ x, method = \"loess\")\n\nWarning: The following aesthetics were dropped during statistical transformation:\ncolour.\nℹ This can happen when ggplot fails to infer the correct grouping structure in\n  the data.\nℹ Did you forget to specify a `group` aesthetic or to convert a numerical\n  variable into a factor?\n\n\n\n\n\n\n\n\n\n\nLearn more: Executable Code"
+  },
+  {
+    "objectID": "ysi-economiga.html#latex-equations",
+    "href": "ysi-economiga.html#latex-equations",
+    "title": "Metropolis-Revealjs",
+    "section": "LaTeX Equations",
+    "text": "LaTeX Equations\nMathJax rendering of equations to HTML\n\n\n\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\n\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\n\n\\[\\begin{gather*}\na_1=b_1+c_1\\\\\na_2=b_2+c_2-d_2+e_2\n\\end{gather*}\\]\n\\[\\begin{align}\na_{11}& =b_{11}&\n  a_{12}& =b_{12}\\\\\na_{21}& =b_{21}&\n  a_{22}& =b_{22}+c_{22}\n\\end{align}\\]\n\n\n\nLearn more: LaTeX Equations"
+  },
+  {
+    "objectID": "ysi-economiga.html#column-layout",
+    "href": "ysi-economiga.html#column-layout",
+    "title": "Metropolis-Revealjs",
+    "section": "Column Layout",
+    "text": "Column Layout\nArrange content into columns of varying widths:\n\n\n\nMotor Trend Car Road Tests\nThe data was extracted from the 1974 Motor Trend US magazine, and comprises fuel consumption and 10 aspects of automobile design and performance for 32 automobiles.\n\n\n\n\n\nknitr::kable(head(mtcars)[,c(\"mpg\", \"cyl\", \"disp\", \"hp\", \"wt\")])\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\nwt\n\n\n\n\nMazda RX4\n21.0\n6\n160\n110\n2.620\n\n\nMazda RX4 Wag\n21.0\n6\n160\n110\n2.875\n\n\nDatsun 710\n22.8\n4\n108\n93\n2.320\n\n\nHornet 4 Drive\n21.4\n6\n258\n110\n3.215\n\n\nHornet Sportabout\n18.7\n8\n360\n175\n3.440\n\n\nValiant\n18.1\n6\n225\n105\n3.460\n\n\n\n\n\n\n\n\nLearn more: Multiple Columns"
+  },
+  {
+    "objectID": "ysi-economiga.html#incremental-lists",
+    "href": "ysi-economiga.html#incremental-lists",
+    "title": "Metropolis-Revealjs",
+    "section": "Incremental Lists",
+    "text": "Incremental Lists\nLists can optionally be displayed incrementally:\n\n\nFirst item\nSecond item\nThird item\n\n\n. . .\n Insert pauses to make other types of content display incrementally.\n\nLearn more: Incremental Lists"
+  },
+  {
+    "objectID": "ysi-economiga.html#fragments",
+    "href": "ysi-economiga.html#fragments",
+    "title": "Metropolis-Revealjs",
+    "section": "Fragments",
+    "text": "Fragments\nIncremental text display and animation with fragments:\n\n\nFade in\n\n\nSlide up while fading in\n\n\nSlide left while fading in\n\n\nFade in then semi out\n\n. . .\n\nStrike\n\n\nHighlight red\n\n\nLearn more: Fragments"
+  },
+  {
+    "objectID": "ysi-economiga.html#slide-backgrounds",
+    "href": "ysi-economiga.html#slide-backgrounds",
+    "title": "Metropolis-Revealjs",
+    "section": "Slide Backgrounds",
+    "text": "Slide Backgrounds\nSet the background attribute on a slide to change the background color (all CSS color formats are supported).\nDifferent background transitions are available via the background-transition option.\n\nLearn more: Slide Backgrounds"
+  },
+  {
+    "objectID": "ysi-economiga.html#media-backgrounds",
+    "href": "ysi-economiga.html#media-backgrounds",
+    "title": "Metropolis-Revealjs",
+    "section": "Media Backgrounds",
+    "text": "Media Backgrounds\nYou can also use the following as a slide background:\n\nAn image: background-image\nA video: background-video\nAn iframe: background-iframe\n\n\nLearn more: Media Backgrounds"
+  },
+  {
+    "objectID": "ysi-economiga.html#absolute-position",
+    "href": "ysi-economiga.html#absolute-position",
+    "title": "Metropolis-Revealjs",
+    "section": "Absolute Position",
+    "text": "Absolute Position\nPosition images or other elements at precise locations\n\n\n\n\nLearn more: Absolute Position"
+  },
+  {
+    "objectID": "ysi-economiga.html#auto-animate",
+    "href": "ysi-economiga.html#auto-animate",
+    "title": "Metropolis-Revealjs",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "ysi-economiga.html#auto-animate-1",
+    "href": "ysi-economiga.html#auto-animate-1",
+    "title": "Metropolis-Revealjs",
+    "section": "Auto-Animate",
+    "text": "Auto-Animate\nAutomatically animate matching elements across slides with Auto-Animate.\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Auto-Animate"
+  },
+  {
+    "objectID": "ysi-economiga.html#slide-transitions",
+    "href": "ysi-economiga.html#slide-transitions",
+    "title": "Metropolis-Revealjs",
+    "section": "Slide Transitions",
+    "text": "Slide Transitions\nThe next few slides will transition using the slide transition\n\n\n\n\n\n\n\nTransition\nDescription\n\n\n\n\nnone\nNo transition (default, switch instantly)\n\n\nfade\nCross fade\n\n\nslide\nSlide horizontally\n\n\nconvex\nSlide at a convex angle\n\n\nconcave\nSlide at a concave angle\n\n\nzoom\nScale the incoming slide so it grows in from the center of the screen.\n\n\n\n\nLearn more: Slide Transitions"
+  },
+  {
+    "objectID": "ysi-economiga.html#tabsets",
+    "href": "ysi-economiga.html#tabsets",
+    "title": "Metropolis-Revealjs",
+    "section": "Tabsets",
+    "text": "Tabsets\n\nPlotData\n\n\n\nlibrary(ggplot2)\nggplot(mtcars, aes(hp, mpg, color = am)) +\n  geom_point() +\n  geom_smooth(formula = y ~ x, method = \"loess\")\n\nWarning: The following aesthetics were dropped during statistical transformation:\ncolour.\nℹ This can happen when ggplot fails to infer the correct grouping structure in\n  the data.\nℹ Did you forget to specify a `group` aesthetic or to convert a numerical\n  variable into a factor?\n\n\n\n\n\n\n\n\n\n\n\n\nknitr::kable(mtcars)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmpg\ncyl\ndisp\nhp\ndrat\nwt\nqsec\nvs\nam\ngear\ncarb\n\n\n\n\nMazda RX4\n21.0\n6\n160.0\n110\n3.90\n2.620\n16.46\n0\n1\n4\n4\n\n\nMazda RX4 Wag\n21.0\n6\n160.0\n110\n3.90\n2.875\n17.02\n0\n1\n4\n4\n\n\nDatsun 710\n22.8\n4\n108.0\n93\n3.85\n2.320\n18.61\n1\n1\n4\n1\n\n\nHornet 4 Drive\n21.4\n6\n258.0\n110\n3.08\n3.215\n19.44\n1\n0\n3\n1\n\n\nHornet Sportabout\n18.7\n8\n360.0\n175\n3.15\n3.440\n17.02\n0\n0\n3\n2\n\n\nValiant\n18.1\n6\n225.0\n105\n2.76\n3.460\n20.22\n1\n0\n3\n1\n\n\nDuster 360\n14.3\n8\n360.0\n245\n3.21\n3.570\n15.84\n0\n0\n3\n4\n\n\nMerc 240D\n24.4\n4\n146.7\n62\n3.69\n3.190\n20.00\n1\n0\n4\n2\n\n\nMerc 230\n22.8\n4\n140.8\n95\n3.92\n3.150\n22.90\n1\n0\n4\n2\n\n\nMerc 280\n19.2\n6\n167.6\n123\n3.92\n3.440\n18.30\n1\n0\n4\n4\n\n\nMerc 280C\n17.8\n6\n167.6\n123\n3.92\n3.440\n18.90\n1\n0\n4\n4\n\n\nMerc 450SE\n16.4\n8\n275.8\n180\n3.07\n4.070\n17.40\n0\n0\n3\n3\n\n\nMerc 450SL\n17.3\n8\n275.8\n180\n3.07\n3.730\n17.60\n0\n0\n3\n3\n\n\nMerc 450SLC\n15.2\n8\n275.8\n180\n3.07\n3.780\n18.00\n0\n0\n3\n3\n\n\nCadillac Fleetwood\n10.4\n8\n472.0\n205\n2.93\n5.250\n17.98\n0\n0\n3\n4\n\n\nLincoln Continental\n10.4\n8\n460.0\n215\n3.00\n5.424\n17.82\n0\n0\n3\n4\n\n\nChrysler Imperial\n14.7\n8\n440.0\n230\n3.23\n5.345\n17.42\n0\n0\n3\n4\n\n\nFiat 128\n32.4\n4\n78.7\n66\n4.08\n2.200\n19.47\n1\n1\n4\n1\n\n\nHonda Civic\n30.4\n4\n75.7\n52\n4.93\n1.615\n18.52\n1\n1\n4\n2\n\n\nToyota Corolla\n33.9\n4\n71.1\n65\n4.22\n1.835\n19.90\n1\n1\n4\n1\n\n\nToyota Corona\n21.5\n4\n120.1\n97\n3.70\n2.465\n20.01\n1\n0\n3\n1\n\n\nDodge Challenger\n15.5\n8\n318.0\n150\n2.76\n3.520\n16.87\n0\n0\n3\n2\n\n\nAMC Javelin\n15.2\n8\n304.0\n150\n3.15\n3.435\n17.30\n0\n0\n3\n2\n\n\nCamaro Z28\n13.3\n8\n350.0\n245\n3.73\n3.840\n15.41\n0\n0\n3\n4\n\n\nPontiac Firebird\n19.2\n8\n400.0\n175\n3.08\n3.845\n17.05\n0\n0\n3\n2\n\n\nFiat X1-9\n27.3\n4\n79.0\n66\n4.08\n1.935\n18.90\n1\n1\n4\n1\n\n\nPorsche 914-2\n26.0\n4\n120.3\n91\n4.43\n2.140\n16.70\n0\n1\n5\n2\n\n\nLotus Europa\n30.4\n4\n95.1\n113\n3.77\n1.513\n16.90\n1\n1\n5\n2\n\n\nFord Pantera L\n15.8\n8\n351.0\n264\n4.22\n3.170\n14.50\n0\n1\n5\n4\n\n\nFerrari Dino\n19.7\n6\n145.0\n175\n3.62\n2.770\n15.50\n0\n1\n5\n6\n\n\nMaserati Bora\n15.0\n8\n301.0\n335\n3.54\n3.570\n14.60\n0\n1\n5\n8\n\n\nVolvo 142E\n21.4\n4\n121.0\n109\n4.11\n2.780\n18.60\n1\n1\n4\n2\n\n\n\n\n\n\n\n\n\nLearn more: Tabsets"
+  },
+  {
+    "objectID": "ysi-economiga.html#preview-links",
+    "href": "ysi-economiga.html#preview-links",
+    "title": "Metropolis-Revealjs",
+    "section": "Preview Links",
+    "text": "Preview Links\nNavigate to hyperlinks without disrupting the flow of your presentation.\nUse the preview-links option to open links in an iframe on top of your slides. Try clicking the link below for a demonstration:\n\nMatplotlib: Visualization with Python\n\n\nLearn more: Preview Links"
+  },
+  {
+    "objectID": "ysi-economiga.html#themes",
+    "href": "ysi-economiga.html#themes",
+    "title": "Metropolis-Revealjs",
+    "section": "Themes",
+    "text": "Themes\n10 Built-in Themes (or create your own)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLearn more: Themes"
+  },
+  {
+    "objectID": "ysi-economiga.html#easy-navigation",
+    "href": "ysi-economiga.html#easy-navigation",
+    "title": "Metropolis-Revealjs",
+    "section": "Easy Navigation",
+    "text": "Easy Navigation\n\nQuickly jump to other parts of your presentation\n\n\n\n\n\n\n\n\n\n\nToggle the slide menu with the menu button (bottom left of slide) to go to other slides and access presentation tools.\n\n\n\nYou can also press m to toggle the menu open and closed.\n\nLearn more: Navigation"
+  },
+  {
+    "objectID": "ysi-economiga.html#chalkboard",
+    "href": "ysi-economiga.html#chalkboard",
+    "title": "Metropolis-Revealjs",
+    "section": "Chalkboard",
+    "text": "Chalkboard\n\nFree form drawing and slide annotations\n\n\n\n\n\n\n\n\n\n\nUse the chalkboard button at the bottom left of the slide to toggle the chalkboard.\n\n\n\n\n\n\n\n\n\n\n\n\nUse the notes canvas button at the bottom left of the slide to toggle drawing on top of the current slide.\n\n\n\nYou can also press b to toggle the chalkboard or c to toggle the notes canvas.\n\nLearn more: Chalkboard"
+  },
+  {
+    "objectID": "ysi-economiga.html#point-of-view",
+    "href": "ysi-economiga.html#point-of-view",
+    "title": "Metropolis-Revealjs",
+    "section": "Point of View",
+    "text": "Point of View\nPress o to toggle overview mode:\n\nHold down the Alt key (or Ctrl in Linux) and click on any element to zoom towards it—try it now on this slide.\n\nLearn more: Overview Mode, Slide Zoom"
+  },
+  {
+    "objectID": "ysi-economiga.html#speaker-view",
+    "href": "ysi-economiga.html#speaker-view",
+    "title": "Metropolis-Revealjs",
+    "section": "Speaker View",
+    "text": "Speaker View\nPress s (or use the presentation menu) to open speaker view\n\n\n\n\n\n\nLearn more: Speaker View"
+  },
+  {
+    "objectID": "ysi-economiga.html#authoring-tools",
+    "href": "ysi-economiga.html#authoring-tools",
+    "title": "Metropolis-Revealjs",
+    "section": "Authoring Tools",
+    "text": "Authoring Tools\nLive side-by-side preview for any notebook or text editor including Jupyter and VS Code\n\n\n\n\n\n\n\n\nLearn more: Jupyter, VS Code, Text Editors"
+  },
+  {
+    "objectID": "ysi-economiga.html#authoring-tools-1",
+    "href": "ysi-economiga.html#authoring-tools-1",
+    "title": "Metropolis-Revealjs",
+    "section": "Authoring Tools",
+    "text": "Authoring Tools\nRStudio includes an integrated presentation preview pane\n\n\nLearn more: RStudio"
+  },
+  {
+    "objectID": "ysi-economiga.html#reference-and-footnotes",
+    "href": "ysi-economiga.html#reference-and-footnotes",
+    "title": "Metropolis-Revealjs",
+    "section": "Reference and Footnotes",
+    "text": "Reference and Footnotes\n\nGreen 1\nBrown\nPurple\n\n\n\nSome additional commentary of more peripheral interest."
+  },
+  {
+    "objectID": "ysi-economiga.html#and-more",
+    "href": "ysi-economiga.html#and-more",
+    "title": "Metropolis-Revealjs",
+    "section": "And More…",
+    "text": "And More…\n\nTouch optimized (presentations look great on mobile, swipe to navigate slides)\nFooter & Logo (optionally specify custom footer per-slide)\nAuto-Slide (step through slides automatically, without any user input)\nMultiplex (allows your audience to follow the slides of the presentation you are controlling on their own phone, tablet or laptop).\n\n\nLearn more: Quarto Presentations"
+  },
+  {
+    "objectID": "ysi-economiga.html#footnotes",
+    "href": "ysi-economiga.html#footnotes",
+    "title": "Metropolis-Revealjs",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nA footnote↩︎"
+  }
+]
