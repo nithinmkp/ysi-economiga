@@ -11,7 +11,7 @@ Welcome to the "What Grad School Don’t Teach You: Tools for Transparent and Re
 
 # Target Audience
 - Research scholars
-- Acedemic Instructors
+- Academic Instructors
 
 # Prerequisites
 Almost None to get a 'whirlwind tour'. But certainly lot to learn!!
